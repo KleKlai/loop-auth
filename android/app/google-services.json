@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "161085392213",
+    "firebase_url": "https://loopauth.firebaseio.com",
+    "project_id": "loopauth",
+    "storage_bucket": "loopauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161085392213:android:df8ca45f65a0f5367a5bdc",
+        "android_client_info": {
+          "package_name": "com.example.loopAuth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161085392213-33pva49bej8g03gcugv4tkagnjjnurtm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.loopAuth",
+            "certificate_hash": "7d2d036e7bf028b4d7d42a3f1b7e50bd3550d9d4"
+          }
+        },
+        {
+          "client_id": "161085392213-hdvlq7t0kqd79aq2c4m60ppk7fppu0ij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwYZofBqNYC03ZzdiHlq85ukpr-PjZxk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161085392213-hdvlq7t0kqd79aq2c4m60ppk7fppu0ij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
